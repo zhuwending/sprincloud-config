@@ -1,2 +1,2 @@
-server:
-  port: 9003
+config:
+  info: 9003
